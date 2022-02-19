@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ghousali07
-- 👀 I’m interested in Data Science 
+- 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning PYHTON
-- 💞️ I’m looking to collaborate on Data Science Projects 
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects 
 - 📫 How to reach me ghous.ali.731@gmail.com
 
 <!---
