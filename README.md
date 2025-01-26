@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently looking for new opportunities in Data Science & Data Analysis.<br>📚I'm currently learning about Data Engineering.<br>🧑🏻‍🎓My goal is to be full-stack Data Scientist.<br>
+🔭I'm currently looking for new opportunities in Data Science & Data Analysis.<br>📚I'm currently learning about Data Engineering.<br>🧑🏻‍🎓My goal is to be full-stack Data Scientist.<br>🤝I am looking to collaborate on Projects using Python and Machine Learning.<br>
 
 
 ## 🌐 Socials:
